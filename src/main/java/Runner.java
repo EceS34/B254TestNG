@@ -9,6 +9,7 @@ public class Runner {
         System.out.println("Techpro 2");
         System.out.println("Techpro 3");
         //remoteda değişiklik
+        //githubda commit
     }
 
 }
